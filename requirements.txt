@@ -1,0 +1,12 @@
+numpy==1.25.2
+openai
+python-dotenv==1.0.0
+pandas
+scikit-learn
+ipykernel
+matplotlib
+plotly
+chainlit
+langchain
+pinecone-client
+tiktoken 
